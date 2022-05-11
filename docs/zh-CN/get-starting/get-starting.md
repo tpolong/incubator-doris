@@ -89,7 +89,7 @@ under the License.
 6. 配置 BE
 
    ```shell
-   # 配置FE-Config
+   # 配置BE-Config
    vi be/conf/be.conf
    # 取消priority_networks的注释，修改参数
    priority_networks = 127.0.0.0/24
